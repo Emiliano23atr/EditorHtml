@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace EditorHtml;
-
-class Program
+namespace EditorHtml
 {
-    static void Main(string[] args)
+    class Program
     {
-        Menu.Show();
+        static void Main(string[] args)
+        {
+            Menu.Show();
+        }
     }
 }
