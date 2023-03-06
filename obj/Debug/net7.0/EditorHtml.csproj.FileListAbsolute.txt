@@ -1,0 +1,15 @@
+/home/e/Desktop/EditorHtml/bin/Debug/net7.0/EditorHtml
+/home/e/Desktop/EditorHtml/bin/Debug/net7.0/EditorHtml.deps.json
+/home/e/Desktop/EditorHtml/bin/Debug/net7.0/EditorHtml.runtimeconfig.json
+/home/e/Desktop/EditorHtml/bin/Debug/net7.0/EditorHtml.dll
+/home/e/Desktop/EditorHtml/bin/Debug/net7.0/EditorHtml.pdb
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.AssemblyReference.cache
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfoInputs.cache
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfo.cs
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/EditorHtml.dll
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/refint/EditorHtml.dll
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/EditorHtml.pdb
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/EditorHtml.genruntimeconfig.cache
+/home/e/Desktop/EditorHtml/obj/Debug/net7.0/ref/EditorHtml.dll
